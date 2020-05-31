@@ -11,6 +11,5 @@ This collection of shaders is written by me, while studying [The Book of Shaders
 
 ## Raymarching
 - [electricsquare/raymarching-workshop](https://github.com/electricsquare/raymarching-workshop)
-
 ## Models
 - https://mannynotfound.github.io/
