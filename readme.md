@@ -11,6 +11,7 @@ This collection of shaders is written by me, while studying [The Book of Shaders
 
 ## Math
 - [immersive linear algebra by J. Ström, K. Åström, and T. Akenine-Möller](http://immersivemath.com/ila/index.html)
+- https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 
 ## Raymarching
 - [electricsquare/raymarching-workshop](https://github.com/electricsquare/raymarching-workshop);
