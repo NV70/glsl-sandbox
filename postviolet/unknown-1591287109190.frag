@@ -89,10 +89,9 @@ float sceneSDF(vec3 samplePoint) {
   samplePoint = (rotateY(sin(u_time/2.)) * vec4(samplePoint, 1.)).xyz;
   samplePoint = (rotateX(sin(u_time/2.)) * vec4(samplePoint, 1.)).xyz;
   samplePoint = (rotateZ(sin(u_time/2.)) * vec4(samplePoint, 1.)).xyz;
-  float el = sdEllipsoid(samplePoint,samplePoint+sin(u_time));
-    samplePoint = opRep(samplePoint, vec3(3., 4., 14.));
+  samplePoint = opRep(samplePoint, vec3(3., 4., 14.));
     
-    return sdOctahedron(samplePoint, 0.446) * el;
+    return sdOctahedron(samplePoint, 0.446);
 }
 
 
