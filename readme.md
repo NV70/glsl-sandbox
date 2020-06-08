@@ -17,7 +17,7 @@ This collection of shaders is written by me, while studying [The Book of Shaders
 - https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 - https://pixelero.wordpress.com/
 
-## Raymarching
+## Ray Marching
 - [electricsquare/raymarching-workshop](https://github.com/electricsquare/raymarching-workshop);
 - [Physically Based Rendering: From Theory To Implementation by Matt Pharr, Wenzel Jakob, and Greg Humphreys](http://www.pbr-book.org/);
 - [Char Stiles — Raymarching](http://charstiles.com/raymarching/);
@@ -26,11 +26,19 @@ This collection of shaders is written by me, while studying [The Book of Shaders
 - [Inigo Quilez — Distance Functions](https://www.iquilezles.org/www/articles/distfunctions/distfunctions.htm);
 - [hg_sdf (Signed Distance Functions)](http://mercury.sexy/hg_sdf/);
 - [Source code for 'Practical Shader Development' by Kyle Halladay](https://github.com/Apress/practical-shader-dev);
+- [Raymarching a Christmas Tree](http://blog.ruslans.com/2015/01/raymarching-christmas-tree.html)
+- [Ray Marching and Signed Distance Functions](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/).
+
+## Ray Tracing
+- [Introduction to Ray Tracing: a Simple Method for Creating 3D Images](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 
 ## Fractals
 - https://visualizer.solquemal.com/
 - https://www.mandelbrotandco.com/en.index.html
 - http://nuclear.mutantstargoat.com/articles/sdr_fract/
+
+## Patterns
+- [Pattern in Islamic Art](https://patterninislamicart.com/);
 
 ## Colors
 - https://natural-colours.livejournal.com/36439.html
@@ -45,5 +53,9 @@ This collection of shaders is written by me, while studying [The Book of Shaders
 ## Shaders examples
 - https://twigl.app/?ch=-M71b4TfFiAbEsPUI3aF&dm=graphics
 
+## Tools
+- [CLI tool to render GLSL shaders](https://github.com/polyfloyd/shady) 
+
 ## Other
 - https://patriciogonzalezvivo.github.io/PixelSpiritDeck/
+- https://shadertoyunofficial.wordpress.com/
