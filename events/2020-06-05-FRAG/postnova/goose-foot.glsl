@@ -1,4 +1,5 @@
-float box(vec2 _st, vec2 _size){
+float box
+(vec2 _st, vec2 _size){
     _size = vec2(0.940,0.460)-_size*0.532;
     vec2 uv = smoothstep(_size,_size+vec2(1e-4),_st);
     uv *= smoothstep(_size,_size+vec2(1e-4),vec2(1.0)-_st);
