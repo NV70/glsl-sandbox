@@ -47,6 +47,7 @@ This collection of shaders is written by [[https://github.com/yacodes/][@yacodes
 - [[https://github.com/polyfloyd/shady][CLI tool to render GLSL shaders]]
 ** Render
 *** [[http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html][High Quality GIF with FFMPEG]] 
+*** Optimize GIF: ~gifsicle -i anim.gif -O3 -o anim-opt.gif~
 ** Other
 - https://patriciogonzalezvivo.github.io/PixelSpiritDeck/
 - https://shadertoyunofficial.wordpress.com/
