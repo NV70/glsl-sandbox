@@ -1,6 +1,7 @@
-# Collection of shaders
+#+TITLE: Collection of shaders
+#+AUTHOR: Aleksandr Yakunichev & Violetta Postnova
 
-This collection of shaders is written by me, while studying [The Book of Shaders](https://thebookofshaders.com/).
+This collection of shaders is written by me, while studying [[https://thebookofshaders.com/][The Book of Shaders]].
 
 # Links
 ## Collections
